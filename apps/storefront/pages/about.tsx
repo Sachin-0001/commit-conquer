@@ -14,7 +14,7 @@ export default function AboutPage() {
       {/* Hero */}
       <section style={s.hero}>
         <div style={s.eyebrow}>Our Story</div>
-        <h1 style={s.heroTitle}>Built for people<br />who move with purpose.</h1>
+        <h1 style={s.heroTitle}>Built for people<br />who move with purpose and goals.</h1>
         <p style={s.heroSub}>
           Commit &amp; Conquer started with a simple belief: clothing should work as hard as you do.
           No logos screaming for attention, no fast-fashion compromise — just thoughtful garments
